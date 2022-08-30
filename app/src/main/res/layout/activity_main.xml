@@ -68,7 +68,7 @@
                     android:inputType="textCapWords"
                     android:textColor="@color/darke_grey_tv"
                     android:textColorHint="#7A8089"
-                    tools:ignore="TouchTargetSizeCheck" />
+                    tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <androidx.appcompat.widget.AppCompatButton
